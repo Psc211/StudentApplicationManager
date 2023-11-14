@@ -1,0 +1,12 @@
+===Candidati===
+===Facultati===
+Facultatea CSIE are urmatoarele specializari:
+Specializarea Ciber
+Limita Buget:9
+Limita Taxa: 8
+
+Facultatea FEEA are urmatoarele specializari:
+Specializarea Conta
+Limita Buget:7
+Limita Taxa: 8
+
